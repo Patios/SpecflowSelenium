@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/patrykmac/Documents/GitHub/homework/Automated testing/AutomationTestFramework/AutomationTestFramework.csproj",
+    "projectUniqueName": "/Users/patrykmac/Documents/GitHub/SpecflowSelenium/AutomationTestFramework/AutomationTestFramework.csproj",
     "projectName": "AutomationTestFramework",
-    "projectPath": "/Users/patrykmac/Documents/GitHub/homework/Automated testing/AutomationTestFramework/AutomationTestFramework.csproj",
-    "outputPath": "/Users/patrykmac/Documents/GitHub/homework/Automated testing/AutomationTestFramework/obj/",
+    "projectPath": "/Users/patrykmac/Documents/GitHub/SpecflowSelenium/AutomationTestFramework/AutomationTestFramework.csproj",
+    "outputPath": "/Users/patrykmac/Documents/GitHub/SpecflowSelenium/AutomationTestFramework/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

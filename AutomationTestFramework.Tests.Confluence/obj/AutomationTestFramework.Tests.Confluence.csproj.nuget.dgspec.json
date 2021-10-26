@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/patrykmac/Documents/GitHub/homework/Automated testing/AutomationTestFramework.Tests.Confluence/AutomationTestFramework.Tests.Confluence.csproj": {}
+    "/Users/patrykmac/Documents/GitHub/SpecflowSelenium/AutomationTestFramework.Tests.Confluence/AutomationTestFramework.Tests.Confluence.csproj": {}
   },
   "projects": {
-    "/Users/patrykmac/Documents/GitHub/homework/Automated testing/AutomationTestFramework.Tests.Confluence/AutomationTestFramework.Tests.Confluence.csproj": {
+    "/Users/patrykmac/Documents/GitHub/SpecflowSelenium/AutomationTestFramework.Tests.Confluence/AutomationTestFramework.Tests.Confluence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/patrykmac/Documents/GitHub/homework/Automated testing/AutomationTestFramework.Tests.Confluence/AutomationTestFramework.Tests.Confluence.csproj",
+        "projectUniqueName": "/Users/patrykmac/Documents/GitHub/SpecflowSelenium/AutomationTestFramework.Tests.Confluence/AutomationTestFramework.Tests.Confluence.csproj",
         "projectName": "AutomationTestFramework.Tests.Confluence",
-        "projectPath": "/Users/patrykmac/Documents/GitHub/homework/Automated testing/AutomationTestFramework.Tests.Confluence/AutomationTestFramework.Tests.Confluence.csproj",
+        "projectPath": "/Users/patrykmac/Documents/GitHub/SpecflowSelenium/AutomationTestFramework.Tests.Confluence/AutomationTestFramework.Tests.Confluence.csproj",
         "packagesPath": "/Users/patrykmac/.nuget/packages/",
-        "outputPath": "/Users/patrykmac/Documents/GitHub/homework/Automated testing/AutomationTestFramework.Tests.Confluence/obj/",
+        "outputPath": "/Users/patrykmac/Documents/GitHub/SpecflowSelenium/AutomationTestFramework.Tests.Confluence/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -28,8 +28,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/patrykmac/Documents/GitHub/homework/Automated testing/AutomationTestFramework/AutomationTestFramework.csproj": {
-                "projectPath": "/Users/patrykmac/Documents/GitHub/homework/Automated testing/AutomationTestFramework/AutomationTestFramework.csproj"
+              "/Users/patrykmac/Documents/GitHub/SpecflowSelenium/AutomationTestFramework/AutomationTestFramework.csproj": {
+                "projectPath": "/Users/patrykmac/Documents/GitHub/SpecflowSelenium/AutomationTestFramework/AutomationTestFramework.csproj"
               }
             }
           }
@@ -97,14 +97,14 @@
         }
       }
     },
-    "/Users/patrykmac/Documents/GitHub/homework/Automated testing/AutomationTestFramework/AutomationTestFramework.csproj": {
+    "/Users/patrykmac/Documents/GitHub/SpecflowSelenium/AutomationTestFramework/AutomationTestFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/patrykmac/Documents/GitHub/homework/Automated testing/AutomationTestFramework/AutomationTestFramework.csproj",
+        "projectUniqueName": "/Users/patrykmac/Documents/GitHub/SpecflowSelenium/AutomationTestFramework/AutomationTestFramework.csproj",
         "projectName": "AutomationTestFramework",
-        "projectPath": "/Users/patrykmac/Documents/GitHub/homework/Automated testing/AutomationTestFramework/AutomationTestFramework.csproj",
+        "projectPath": "/Users/patrykmac/Documents/GitHub/SpecflowSelenium/AutomationTestFramework/AutomationTestFramework.csproj",
         "packagesPath": "/Users/patrykmac/.nuget/packages/",
-        "outputPath": "/Users/patrykmac/Documents/GitHub/homework/Automated testing/AutomationTestFramework/obj/",
+        "outputPath": "/Users/patrykmac/Documents/GitHub/SpecflowSelenium/AutomationTestFramework/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.nuget/packages/microsoft.net.test.sdk/16.11.0/build/netcoreapp2.1" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="$USER_HOME$/.nuget/packages/microsoft.testplatform.testhost/16.11.0/build/netcoreapp2.1/Microsoft.TestPlatform.PlatformAbstractions.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/4.0.0/build/netcoreapp2.1/nunit.engine.api.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/4.0.0/build/netcoreapp2.1/nunit.engine.core.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/4.0.0/build/netcoreapp2.1/nunit.engine.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/4.0.0/build/netcoreapp2.1/NUnit3.TestAdapter.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/4.0.0/build/netcoreapp2.1/NUnit3.TestAdapter.pdb" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/4.0.0/build/netcoreapp2.1/testcentric.engine.metadata.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specflow.nunit/3.9.8/lib/netstandard2.0/TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specflow.plus.livingdocplugin/3.9.57/lib/netstandard2.0/LivingDoc.Dtos.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specflow.plus.livingdocplugin/3.9.57/lib/netstandard2.0/LivingDoc.SpecFlowPlugin.dll" t="Include" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="AutomationTestFramework" t="IncludeRecursive">
+        <e p="allureConfig.json" t="Include" />
+        <e p="AutomationTestFramework.csproj" t="IncludeRecursive" />
+        <e p="Base" t="Include">
+          <e p="BasePage.cs" t="Include" />
+          <e p="BaseTest.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Extensions" t="Include">
+          <e p="EnumExtension.cs" t="Include" />
+          <e p="ListExtensions.cs" t="Include" />
+          <e p="WebDriver" t="Include">
+            <e p="ClickExtension.cs" t="Include" />
+            <e p="FindElementsExtension.cs" t="Include" />
+            <e p="ScreenshotExtensions.cs" t="Include" />
+            <e p="ScrollingExtension.cs" t="Include" />
+            <e p="SelectExtension.cs" t="Include" />
+            <e p="SendKeysWaitExtensions.cs" t="Include" />
+            <e p="WaitExtension.cs" t="Include" />
+            <e p="WebDriverExtensions.cs" t="Include" />
+          </e>
+          <e p="WebElementExtensions.cs" t="Include" />
+        </e>
+        <e p="Helpers" t="Include">
+          <e p="Configuration.cs" t="Include" />
+          <e p="WebDriverFactory.cs" t="Include" />
+          <e p="WebDriverListener.cs" t="Include" />
+          <e p="WebDriverSettings.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Browser.cs" t="Include" />
+          <e p="BrowserType.cs" t="Include" />
+          <e p="EnvironmentConfiguration.cs" t="Include" />
+          <e p="WebDriverConfiguration.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="AutomationTestFramework.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="AutomationTestFramework.Tests.Confluence" t="IncludeRecursive">
+        <e p="appsettings.json" t="Include" />
+        <e p="AutomationTestFramework.Tests.Confluence.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Extensions" t="Include">
+          <e p="StringExtensions.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="AutomationTestFramework.Tests.Confluence.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Pages" t="Include">
+          <e p="LoginFormPage.cs" t="Include" />
+          <e p="LogOutPage.cs" t="Include" />
+          <e p="SecureAreaPage.cs" t="Include" />
+        </e>
+        <e p="Providers" t="Include">
+          <e p="UrlProvider.cs" t="Include" />
+        </e>
+        <e p="Tests" t="Include">
+          <e p="Feature" t="Include">
+            <e p="TestLogin.feature.cs" t="Include" />
+          </e>
+          <e p="Steps" t="Include">
+            <e p="TestLoginSteps.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TestFramework.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_TestFramework.491218844.00" t="ExcludeRecursive" />
+  </component>
+</project>

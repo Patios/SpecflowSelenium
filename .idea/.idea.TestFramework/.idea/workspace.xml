@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7b76431-b0ea-4970-bf4f-be9db51bd60f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestFramework/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestFramework/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestFramework/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestFramework/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestFramework/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationTestFramework.Tests.Confluence/obj/AutomationTestFramework.Tests.Confluence.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationTestFramework.Tests.Confluence/obj/AutomationTestFramework.Tests.Confluence.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationTestFramework.Tests.Confluence/obj/AutomationTestFramework.Tests.Confluence.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationTestFramework.Tests.Confluence/obj/AutomationTestFramework.Tests.Confluence.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationTestFramework.Tests.Confluence/obj/Debug/netcoreapp3.1/AutomationTestFramework.Tests.Confluence.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationTestFramework.Tests.Confluence/obj/Debug/netcoreapp3.1/AutomationTestFramework.Tests.Confluence.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationTestFramework.Tests.Confluence/obj/Debug/netcoreapp3.1/AutomationTestFramework.Tests.Confluence.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationTestFramework.Tests.Confluence/obj/Debug/netcoreapp3.1/AutomationTestFramework.Tests.Confluence.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationTestFramework.Tests.Confluence/obj/Debug/netcoreapp3.1/AutomationTestFramework.Tests.Confluence.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationTestFramework.Tests.Confluence/obj/Debug/netcoreapp3.1/AutomationTestFramework.Tests.Confluence.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationTestFramework.Tests.Confluence/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationTestFramework.Tests.Confluence/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationTestFramework.Tests.Confluence/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationTestFramework.Tests.Confluence/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationTestFramework/bin/Debug/netcoreapp3.1/AutomationTestFramework.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationTestFramework/bin/Debug/netcoreapp3.1/AutomationTestFramework.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationTestFramework/bin/Debug/netcoreapp3.1/AutomationTestFramework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationTestFramework/bin/Debug/netcoreapp3.1/AutomationTestFramework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationTestFramework/bin/Debug/netcoreapp3.1/AutomationTestFramework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationTestFramework/bin/Debug/netcoreapp3.1/AutomationTestFramework.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationTestFramework/obj/AutomationTestFramework.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationTestFramework/obj/AutomationTestFramework.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationTestFramework/obj/AutomationTestFramework.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationTestFramework/obj/AutomationTestFramework.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationTestFramework/obj/Debug/netcoreapp3.1/AutomationTestFramework.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationTestFramework/obj/Debug/netcoreapp3.1/AutomationTestFramework.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationTestFramework/obj/Debug/netcoreapp3.1/AutomationTestFramework.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationTestFramework/obj/Debug/netcoreapp3.1/AutomationTestFramework.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationTestFramework/obj/Debug/netcoreapp3.1/AutomationTestFramework.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationTestFramework/obj/Debug/netcoreapp3.1/AutomationTestFramework.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationTestFramework/obj/Debug/netcoreapp3.1/AutomationTestFramework.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationTestFramework/obj/Debug/netcoreapp3.1/AutomationTestFramework.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationTestFramework/obj/Debug/netcoreapp3.1/AutomationTestFramework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationTestFramework/obj/Debug/netcoreapp3.1/AutomationTestFramework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationTestFramework/obj/Debug/netcoreapp3.1/AutomationTestFramework.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationTestFramework/obj/Debug/netcoreapp3.1/AutomationTestFramework.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationTestFramework/obj/Debug/netcoreapp3.1/AutomationTestFramework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationTestFramework/obj/Debug/netcoreapp3.1/AutomationTestFramework.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationTestFramework/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationTestFramework/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationTestFramework/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationTestFramework/obj/project.packagespec.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/AutomationTestFramework.Tests.Confluence/Tests/Feature/TestLogin.feature.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="203eH3xM2bgsIB4DUfsfiMT0P6r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Cucumber.js.TestLogin.feature">
+    <configuration name="AutomationTestFramework" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/AutomationTestFramework/AutomationTestFramework.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLogin.feature" type="cucumber.js" factoryName="Cucumber.js" temporary="true">
+      <option name="myFilePath" value="$PROJECT_DIR$/AutomationTestFramework.Tests.Confluence/Tests/Feature/TestLogin.feature" />
+      <option name="myNameFilter" />
+      <option name="cucumberJsArguments" value="" />
+      <option name="workingDirectory" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber.js.TestLogin.feature" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7b76431-b0ea-4970-bf4f-be9db51bd60f" name="Default Changelist" comment="" />
+      <created>1635277608451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635277608451</updated>
+      <workItem from="1635277612740" duration="266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="587" y="407" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1635277655282">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="587" y="407" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.25.1680.1025@0.25.1680.1025" timestamp="1635277655282" />
+    <state width="1638" height="277" key="GridCell.Tab.0.bottom" timestamp="1635278012437">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="277" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1635278012437" />
+    <state width="1638" height="277" key="GridCell.Tab.0.center" timestamp="1635278012435">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="277" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1635278012435" />
+    <state width="1638" height="277" key="GridCell.Tab.0.left" timestamp="1635278012435">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="277" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1635278012435" />
+    <state width="1638" height="277" key="GridCell.Tab.0.right" timestamp="1635278012436">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="277" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1635278012436" />
+  </component>
+</project>
