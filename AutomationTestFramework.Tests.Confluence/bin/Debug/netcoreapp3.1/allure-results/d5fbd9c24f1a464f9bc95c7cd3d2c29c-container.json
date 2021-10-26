@@ -1,0 +1,44 @@
+{
+  "uuid": "2466d497-ce3b-4e7e-9d14-28cb28cbfb27-tc-0-1001",
+  "name": "AutomationTestFramework.Tests.Confluence.Tests.LoginFormTest.LoginAuth_PutInvalidCredentials_SeeValidationAboutNoAccessToSite",
+  "children": [
+    "0a0e057c-68b5-47cd-9403-64246423f482-tr-0-1003"
+  ],
+  "befores": [
+    {
+      "name": "Setup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1634811398029,
+      "stop": 1634811398029
+    }
+  ],
+  "afters": [
+    {
+      "name": "TearDown",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1634811398030,
+      "stop": 1634811398030
+    }
+  ],
+  "links": [],
+  "start": 1634811391801,
+  "stop": 1634811398059
+}

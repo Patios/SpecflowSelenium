@@ -1,0 +1,94 @@
+2021-10-21 12:16:23 INFO  Navigating to http://the-internet.herokuapp.com/login
+2021-10-21 12:16:25 INFO  Finding element `By.CssSelector: #username`
+2021-10-21 12:16:25 INFO  Finding element `By.CssSelector: #username`
+2021-10-21 12:16:26 INFO  Finding element `By.CssSelector: #password`
+2021-10-21 12:16:26 INFO  Finding element `By.CssSelector: #password`
+2021-10-21 12:16:27 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:16:27 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:16:27 INFO  Clicking on the i `Login` Element (id = ecab0111-8d39-466b-a56e-c75e075b72df)
+2021-10-21 12:16:28 INFO  Finding element `By.CssSelector: .success`
+2021-10-21 12:16:28 INFO  Finding element `By.CssSelector: .success`
+2021-10-21 12:16:28 INFO  Finding element `By.CssSelector: .icon-signout`
+2021-10-21 12:16:28 INFO  Finding element `By.CssSelector: .icon-signout`
+2021-10-21 12:16:28 INFO  Clicking on the i `Logout` Element (id = a829a6fd-8aca-4e39-b272-86313e978600)
+2021-10-21 12:16:33 INFO  Navigating to http://the-internet.herokuapp.com/login
+2021-10-21 12:16:35 INFO  Finding element `By.CssSelector: #username`
+2021-10-21 12:16:35 INFO  Finding element `By.CssSelector: #username`
+2021-10-21 12:16:36 INFO  Finding element `By.CssSelector: #password`
+2021-10-21 12:16:36 INFO  Finding element `By.CssSelector: #password`
+2021-10-21 12:16:37 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:16:37 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:16:37 INFO  Clicking on the i `Login` Element (id = 5ba7ac5f-71ba-4157-8ff5-bad2e02c9cfa)
+2021-10-21 12:16:37 INFO  Finding element `By.CssSelector: .error`
+2021-10-21 12:16:37 INFO  Finding element `By.CssSelector: .error`
+2021-10-21 12:17:41 INFO  Navigating to http://the-internet.herokuapp.com/login
+2021-10-21 12:17:43 INFO  Finding element `By.CssSelector: #username`
+2021-10-21 12:17:43 INFO  Finding element `By.CssSelector: #username`
+2021-10-21 12:17:44 INFO  Finding element `By.CssSelector: #password`
+2021-10-21 12:17:44 INFO  Finding element `By.CssSelector: #password`
+2021-10-21 12:17:45 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:17:45 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:17:45 INFO  Clicking on the i `Login` Element (id = 254bb296-bc65-41a2-b268-fe2dc618183a)
+2021-10-21 12:17:47 INFO  Finding element `By.CssSelector: .success`
+2021-10-21 12:17:47 INFO  Finding element `By.CssSelector: .success`
+2021-10-21 12:17:47 INFO  Finding element `By.CssSelector: .icon-signout`
+2021-10-21 12:17:47 INFO  Finding element `By.CssSelector: .icon-signout`
+2021-10-21 12:17:47 INFO  Clicking on the i `Logout` Element (id = 5dc103ff-5409-454f-a96f-d696cb172ea7)
+2021-10-21 12:18:21 INFO  Navigating to http://the-internet.herokuapp.com/login
+2021-10-21 12:18:23 INFO  Finding element `By.CssSelector: #username`
+2021-10-21 12:18:23 INFO  Finding element `By.CssSelector: #username`
+2021-10-21 12:18:24 INFO  Finding element `By.CssSelector: #password`
+2021-10-21 12:18:24 INFO  Finding element `By.CssSelector: #password`
+2021-10-21 12:18:24 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:24 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:25 INFO  Clicking on the i `Login` Element (id = 141a15c8-ac05-4d14-b1a2-eed24d1a0975)
+2021-10-21 12:18:25 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:26 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:26 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:27 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:27 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:28 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:28 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:29 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:29 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:30 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:30 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:31 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:31 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:32 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:32 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:33 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:33 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:34 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:34 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:35 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:35 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:53 INFO  Navigating to http://the-internet.herokuapp.com/login
+2021-10-21 12:18:54 INFO  Finding element `By.CssSelector: #username`
+2021-10-21 12:18:54 INFO  Finding element `By.CssSelector: #username`
+2021-10-21 12:18:55 INFO  Finding element `By.CssSelector: #password`
+2021-10-21 12:18:55 INFO  Finding element `By.CssSelector: #password`
+2021-10-21 12:18:56 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:56 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:56 INFO  Clicking on the i `Login` Element (id = f429a005-8c1f-478e-b50f-b567fd342dfc)
+2021-10-21 12:18:57 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:57 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:58 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:58 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:59 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:18:59 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:19:00 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:19:00 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:19:01 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:19:01 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:19:02 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:19:02 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:19:03 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:19:03 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:19:04 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:19:04 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:19:05 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:19:05 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:19:06 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:19:06 INFO  Finding element `By.CssSelector: .fa-sign-in`
+2021-10-21 12:19:07 INFO  Finding element `By.CssSelector: .fa-sign-in`

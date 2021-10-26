@@ -1,0 +1,94 @@
+{
+  "uuid": "0a0e057c-68b5-47cd-9403-64246423f482-tr-0-1003",
+  "historyId": "AutomationTestFramework.Tests.Confluence.Tests.LoginFormTest.LoginAuth_PutInvalidCredentials_SeeValidationAboutNoAccessToSite",
+  "fullName": "AutomationTestFramework.Tests.Confluence.Tests.LoginFormTest.LoginAuth_PutInvalidCredentials_SeeValidationAboutNoAccessToSite",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#12"
+    },
+    {
+      "name": "host",
+      "value": "MacBook-Pro-PatrykMac"
+    },
+    {
+      "name": "testClass",
+      "value": "AutomationTestFramework.Tests.Confluence.Tests.LoginFormTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "LoginAuth_PutInvalidCredentials_SeeValidationAboutNoAccessToSite"
+    },
+    {
+      "name": "package",
+      "value": "AutomationTestFramework.Tests.Confluence.Tests.LoginFormTest"
+    }
+  ],
+  "links": [],
+  "name": "LoginAuth_PutInvalidCredentials_SeeValidationAboutNoAccessToSite",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "LoginAuth_PutInvalidCredentials_SeeValidationAboutNoAccessToSite"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "LoginAuth_PutInvalidCredentials_SeeValidationAboutNoAccessToSite",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Navigated to [The Internet](http:the-internet.herokuapp.comlogin)",
+          "source": "9aaabb8126fd427eaf21ac389800bb8a-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Value of the Element (id = b744dc75-3c41-42a3-b062-de18cdcf43bc) changed to ``",
+          "source": "c411ff2faa1045a4803ace8bacaa0095-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Value of the Element (id = b744dc75-3c41-42a3-b062-de18cdcf43bc) changed to `tomsmith`",
+          "source": "e2beb8242fb1494ea72bc235fa6a789a-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Value of the Element (id = 4bb25529-c6b9-4cc2-baf2-70ad6bb6ab20) changed to ``",
+          "source": "c4361eeb9b2e458184cef5fbba0e6dc0-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Value of the Element (id = 4bb25529-c6b9-4cc2-baf2-70ad6bb6ab20) changed to `invalid_password`",
+          "source": "9b6a87e012e54570b55049a7ee28e0d2-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Element (id = 5ba7ac5f-71ba-4157-8ff5-bad2e02c9cfa) clicked",
+          "source": "da2d905f825b4068a58a5775283d317c-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Console Output",
+          "source": "e38b84c505be4df484ef46f6dc7ae5d8-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1634811391804,
+      "stop": 1634811398032
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1634811391803,
+  "stop": 1634811398036
+}

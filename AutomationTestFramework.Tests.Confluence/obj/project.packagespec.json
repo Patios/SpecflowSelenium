@@ -1,0 +1,89 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/patrykmac/Documents/GitHub/homework/Automated testing/AutomationTestFramework.Tests.Confluence/AutomationTestFramework.Tests.Confluence.csproj",
+    "projectName": "AutomationTestFramework.Tests.Confluence",
+    "projectPath": "/Users/patrykmac/Documents/GitHub/homework/Automated testing/AutomationTestFramework.Tests.Confluence/AutomationTestFramework.Tests.Confluence.csproj",
+    "outputPath": "/Users/patrykmac/Documents/GitHub/homework/Automated testing/AutomationTestFramework.Tests.Confluence/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "/Users/patrykmac/Documents/GitHub/homework/Automated testing/AutomationTestFramework/AutomationTestFramework.csproj": {
+            "projectPath": "/Users/patrykmac/Documents/GitHub/homework/Automated testing/AutomationTestFramework/AutomationTestFramework.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "Bogus": {
+          "target": "Package",
+          "version": "[33.1.1, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[16.11.0, )"
+        },
+        "NUnit3TestAdapter": {
+          "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[4.0.0, )"
+        },
+        "SpecFlow": {
+          "target": "Package",
+          "version": "[3.9.8, )"
+        },
+        "SpecFlow.NUnit": {
+          "target": "Package",
+          "version": "[3.9.8, )"
+        },
+        "SpecFlow.NUnit.Runners": {
+          "target": "Package",
+          "version": "[3.9.8, )"
+        },
+        "SpecFlow.Plus.LivingDocPlugin": {
+          "target": "Package",
+          "version": "[3.9.57, )"
+        },
+        "SpecFlow.Tools.MsBuild.Generation": {
+          "target": "Package",
+          "version": "[3.9.8, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+    }
+  }
+}

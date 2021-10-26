@@ -1,0 +1,99 @@
+{
+  "uuid": "1b9080dc-5475-4935-8e8b-ab46fe9027d6-tr-0-1002",
+  "historyId": "AutomationTestFramework.Tests.Confluence.Tests.LoginFormTest.LoginAuth_PutCorrectCredentials_SeeValidationAboutLoggedToTheSystem",
+  "fullName": "AutomationTestFramework.Tests.Confluence.Tests.LoginFormTest.LoginAuth_PutCorrectCredentials_SeeValidationAboutLoggedToTheSystem",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#11"
+    },
+    {
+      "name": "host",
+      "value": "MacBook-Pro-PatrykMac"
+    },
+    {
+      "name": "testClass",
+      "value": "AutomationTestFramework.Tests.Confluence.Tests.LoginFormTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "LoginAuth_PutCorrectCredentials_SeeValidationAboutLoggedToTheSystem"
+    },
+    {
+      "name": "package",
+      "value": "AutomationTestFramework.Tests.Confluence.Tests.LoginFormTest"
+    }
+  ],
+  "links": [],
+  "name": "LoginAuth_PutCorrectCredentials_SeeValidationAboutLoggedToTheSystem",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "LoginAuth_PutCorrectCredentials_SeeValidationAboutLoggedToTheSystem"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "LoginAuth_PutCorrectCredentials_SeeValidationAboutLoggedToTheSystem",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Navigated to [The Internet](http:the-internet.herokuapp.comlogin)",
+          "source": "252372261f2049f7af6c4077c5f4e11f-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Value of the Element (id = ece6f643-33b3-4346-9dc0-5f82a74ce1c5) changed to ``",
+          "source": "65f704042d1a490e9325b68ea4135e10-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Value of the Element (id = ece6f643-33b3-4346-9dc0-5f82a74ce1c5) changed to `tomsmith`",
+          "source": "925588aeeb6d419ab694ea1d08cef94e-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Value of the Element (id = e0d79a5f-e82f-4ce3-85d3-2538ce1d367d) changed to ``",
+          "source": "d8889594c9294920ae5f339a75c6b0b2-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Value of the Element (id = e0d79a5f-e82f-4ce3-85d3-2538ce1d367d) changed to `SuperSecretPassword!`",
+          "source": "94d70529675448ec95dbb482ebfacdce-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Element (id = 254bb296-bc65-41a2-b268-fe2dc618183a) clicked",
+          "source": "b0f50d2df7ea49698e77a3880fe3d16c-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Element (id = 5dc103ff-5409-454f-a96f-d696cb172ea7) clicked",
+          "source": "7571f651d08b4630b64a7092fd4517dd-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Console Output",
+          "source": "185380ffa97844829f22838ed0a3b726-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1634811459518,
+      "stop": 1634811468124
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1634811459517,
+  "stop": 1634811468128
+}

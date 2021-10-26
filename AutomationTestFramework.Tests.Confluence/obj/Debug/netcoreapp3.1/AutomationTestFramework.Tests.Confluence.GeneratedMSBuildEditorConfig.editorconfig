@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AutomationTestFramework.Tests.Confluence
+build_property.ProjectDir = /Users/patrykmac/Documents/GitHub/homework/Automated testing/AutomationTestFramework.Tests.Confluence/
